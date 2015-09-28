@@ -1,0 +1,15 @@
+{
+  "name": "react-nexis-demo",
+  "version": "0.1.0",
+  "description": "Demo repository for NEXIS-X talk on React",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Billy Ceskavich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
