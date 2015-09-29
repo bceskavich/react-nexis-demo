@@ -53,11 +53,8 @@ class TodoApp extends React.Component {
   // Adds our new todo text to the array of todos, and resets the new todo text
   // React takes care of the rest (i.e. rendering)!
   addNewTodo() {
-    let todos = this.state.todos;
-    todos.push(this.state.newTodo);
-
     this.setState({
-      todos: todos,
+      todos: this.state.todos.concat([this.state.newTodo]),
       newTodo: ''
     });
   }
