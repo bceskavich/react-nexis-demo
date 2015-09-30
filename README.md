@@ -10,7 +10,7 @@ A couple options I recommend are:
 
 **A) Express Server**
 
-This repo comes complete with a simple Express server ready to go. You'll need to have [Node](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed to get things going. Once you do, simply do the following:
+If you're comfortable working on the command line and/or have experience with NodeJS, this options will suit you well. This repo comes complete with a simple Express server ready to go. You'll need to have [Node](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed to get things going. Once you do, simply do the following:
 
 ```shell
 $ npm install
@@ -26,4 +26,4 @@ Then navigate to http://localhost:5000/
 
 **B) MAMP**
 
-[MAMP](https://www.mamp.info/en/) is a great tool for running local servers on Mac or Windows computers via a GUI interface. You can download a free version online. You just need to point the root of the server to the `public/` directory and start it up. Then navigate to http://localhost:8888/
+If you're not as comfortable working on the commandline, [MAMP](https://www.mamp.info/en/) is a great tool for running local servers on Mac or Windows computers via a GUI interface. You can download a free version online. You just need to point the root of the server to the `public/` directory and start it up. Then navigate to http://localhost:8888/
