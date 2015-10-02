@@ -1,6 +1,6 @@
 # NEXIS-X React Tutorial
 
-This is source code for that will be used for the React seminar put on by [NEXIS](http://nexis.ischool.syr.edu/) on Friday, Oct. 2nd at Syracuse University. The completed tutorial will be hosted in `public/js/solution.js` following the seminar.
+This is source code for that was used for the React seminar put on by [NEXIS](http://nexis.ischool.syr.edu/) on Friday, Oct. 2nd at Syracuse University. The completed tutorial will be hosted in `public/js/solution.js` following the seminar.
 
 ## Using This Tutorial
 
